@@ -1,4 +1,4 @@
-# Under Banner Announcements For Shopify Dawn Theme
+# Under Header Announcements For Shopify Dawn Theme
 Welcome to my GitHub repository where I have shared the code for adding an announcement banner under the header that is responsive for both mobile and desktop sites with the option to add SVG Icons. This code was written by modifying the Shopify Dawn theme in version 7.0.1. The original theme was developed by Shopify and credit goes to the original developer. With this modification, you can add an announcement banner under the header to your Shopify store, which can be used to communicate important information, such as sales, promotions, or important announcements. The announcements are editable in the Shopify Theme customise customize it to meet your specific needs. Feel free to use this code in your own projects.
 
 # Setup
